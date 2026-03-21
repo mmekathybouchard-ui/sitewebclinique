@@ -1,1 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@layer utilities{.animate-fade-in{animation:.5s ease-in-out fadeIn}}@keyframes fadeIn{0%{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}html{scroll-behavior:smooth}
